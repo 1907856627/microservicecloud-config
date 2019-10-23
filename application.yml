@@ -6,7 +6,7 @@ spring:
 spring:
   profiles: dev
   application:
-      name: microservicecloud-config-qs-dev
+    name: microservicecloud-config-qs-dev
 ---
 spring:
   profiles: test
